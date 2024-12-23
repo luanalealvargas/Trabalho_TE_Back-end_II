@@ -47,13 +47,13 @@ php -S localhost:8080 -t public
 # Testar a Aplicação Web
 Agora que o servidor está rodando, você pode acessar a aplicação através do navegador.
 
-    Criar um novo link: Abra o navegador e acesse a URL http://localhost:8080/web/criar. Preencha o formulário com uma URL original e crie um novo link.
+Criar um novo link: Abra o navegador e acesse a URL http://localhost:8080/web/criar. Preencha o formulário com uma URL original e crie um novo link.
 
-    Listar links cadastrados: Acesse http://localhost:8080/web/listar para ver os links cadastrados.
+Listar links cadastrados: Acesse http://localhost:8080/web/listar para ver os links cadastrados.
 
-    Editar um link: Para editar um link, clique no botão de "Editar" ao lado do link na lista.
+Editar um link: Para editar um link, clique no botão de "Editar" ao lado do link na lista.
 
-    Deletar um link: Para deletar um link, clique no botão de "Deletar" ao lado do link na lista.
+Deletar um link: Para deletar um link, clique no botão de "Deletar" ao lado do link na lista.
 
 # Testar a Aplicação Insomnia
 Agora que o servidor está rodando, você pode testar a aplicação através do insomnia.
