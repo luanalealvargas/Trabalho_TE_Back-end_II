@@ -1,0 +1,13 @@
+{
+    "name": "luanavargas/link-shortener",
+    "description": "Um sistema simples de encurtador de links utilizando MongoDB",
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luanavargas\\LinkShortener\\": "app/"
+        }
+    },
+    "minimum-stability": "stable"
+}
